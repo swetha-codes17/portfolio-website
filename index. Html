@@ -1,1 +1,37 @@
+<!DOCTYPE html>  <html>  
+<head>  
+    <title>My Portfolio</title>  
+    <link rel="stylesheet" href="style.css">  
+</head>  
+<body>  <div class="container">  
 
+    <h1>Hi, I'm Swetha 👋</h1>  
+
+    <p>B.Tech Student | Python Learner | Web Development Beginner</p>  
+
+    <h2>About Me</h2>  
+    <p>  
+        I am learning Python and Web Development.  
+        I love building projects and improving my coding skills.  
+    </p>  
+
+    <h2>Skills</h2>  
+    <ul>  
+        <li>Python</li>  
+        <li>HTML</li>  
+        <li>CSS</li>  
+    </ul>  
+
+    <h2>Projects</h2>  
+    <ul>  
+        <li>Login Page</li>  
+        <li>Student Dashboard</li>  
+    </ul>  
+
+    <h2>Contact</h2>  
+    <p>Email: swetha@example.com</p>  
+
+</div>
+
+</body>  
+</html>  
